@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+
+/* the div is half the page wide and sits in the middle */
+.meme {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 60px;
+}
+
+img {
+  width: 100%;
+  border: 5px solid white;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1.2rem;
+}
